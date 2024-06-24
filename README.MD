@@ -8,23 +8,23 @@ EVM :
 
 ## Steps
 
-### 1. Clone Repositori
+### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/bot-sonic-sol-multi-phrase-PK.git
+https://github.com/Mnuralim/bot-unit-zero.git
 ```
 
 ```
-cd bot-sonic-sol
+cd bot-unit-zero
 ```
 
-### 2. Instal Dependensi
+### 2. Instal Dependency
 
 ```bash
 npm install
 ```
 
-### 3. Konfigurasi .env File
+### 3. configurate .env File
 
 Create a file named .env in the project root directory.
 
