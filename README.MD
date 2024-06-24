@@ -11,11 +11,11 @@ EVM :
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/Mnuralim/bot-sonic-sol-multi-phrase-PK.git
+https://github.com/Mnuralim/bot-unit-zero.git
 ```
 
 ```
-cd bot-sonic-sol
+cd bot-unit-zero
 ```
 
 ### 2. Instal Dependensi
