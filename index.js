@@ -43,7 +43,7 @@ async function main() {
     const balanceInEth = ethers.formatEther(balance)
     console.log(`Wallet ${wallet.address} balance: ${balanceInEth} ETH`)
 
-    if (parseFloat(balanceInEth) <= 1) {
+    if (parseFloat(balanceInEth) <= 0) {
       console.error(`Wallet ${wallet.address} Insufficient balance . Skipping transactions for this wallet.`)
       continue
     }
